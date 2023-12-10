@@ -1,0 +1,62 @@
+[
+  {
+    "id": "MUMBAI_CSMT",
+    "type": "Airport",
+    "name": "Mumbai CSMT",
+    "location": "Mumbai",
+    "coordinates": {
+      "lat": 19.076,
+      "lng": 72.8777
+    },
+    "_rid": "zrE3ALRUp5kCAAAAAAAAAA==",
+    "_self": "dbs/zrE3AA==/colls/zrE3ALRUp5k=/docs/zrE3ALRUp5kCAAAAAAAAAA==/",
+    "_etag": "\"00000000-0000-0000-29aa-43226aae01da\"",
+    "_attachments": "attachments/",
+    "_ts": 1702021420
+  },
+  {
+    "id": "DELHI_IND",
+    "type": "Airport",
+    "name": "Indira Gandhi International Airport",
+    "location": "Delhi",
+    "coordinates": {
+      "lat": 28.5562,
+      "lng": 77.1
+    },
+    "_rid": "zrE3ALRUp5kDAAAAAAAAAA==",
+    "_self": "dbs/zrE3AA==/colls/zrE3ALRUp5k=/docs/zrE3ALRUp5kDAAAAAAAAAA==/",
+    "_etag": "\"00000000-0000-0000-29ae-8e15dad801da\"",
+    "_attachments": "attachments/",
+    "_ts": 1702023264
+  },
+  {
+    "id": "NEWYORK_JFK",
+    "type": "Airport",
+    "name": "John F. Kennedy International Airport",
+    "location": "New York",
+    "coordinates": {
+      "lat": 40.6413,
+      "lng": -73.7781
+    },
+    "_rid": "zrE3ALRUp5kEAAAAAAAAAA==",
+    "_self": "dbs/zrE3AA==/colls/zrE3ALRUp5k=/docs/zrE3ALRUp5kEAAAAAAAAAA==/",
+    "_etag": "\"00000000-0000-0000-29ae-a439364901da\"",
+    "_attachments": "attachments/",
+    "_ts": 1702023301
+  },
+  {
+    "id": "LONDON_HEATHROW",
+    "type": "Airport",
+    "name": "Heathrow Airport",
+    "location": "London",
+    "coordinates": {
+      "lat": 51.47,
+      "lng": -0.4543
+    },
+    "_rid": "zrE3ALRUp5kFAAAAAAAAAA==",
+    "_self": "dbs/zrE3AA==/colls/zrE3ALRUp5k=/docs/zrE3ALRUp5kFAAAAAAAAAA==/",
+    "_etag": "\"00000000-0000-0000-29ae-9b156de601da\"",
+    "_attachments": "attachments/",
+    "_ts": 1702023286
+  }
+]

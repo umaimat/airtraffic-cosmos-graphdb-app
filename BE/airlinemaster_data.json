@@ -1,0 +1,42 @@
+[
+  {
+    "id": "AI101",
+    "type": "Airline",
+    "name": "Air India",
+    "_rid": "zrE3AJ4WlJYBAAAAAAAAAA==",
+    "_self": "dbs/zrE3AA==/colls/zrE3AJ4WlJY=/docs/zrE3AJ4WlJYBAAAAAAAAAA==/",
+    "_etag": "\"00000000-0000-0000-29a5-4a43695101da\"",
+    "_attachments": "attachments/",
+    "_ts": 1702019285
+  },
+  {
+    "id": "BAW",
+    "type": "Airline",
+    "name": "British Airways",
+    "_rid": "zrE3AJ4WlJYCAAAAAAAAAA==",
+    "_self": "dbs/zrE3AA==/colls/zrE3AJ4WlJY=/docs/zrE3AJ4WlJYCAAAAAAAAAA==/",
+    "_etag": "\"00000000-0000-0000-29a5-8845959801da\"",
+    "_attachments": "attachments/",
+    "_ts": 1702019389
+  },
+  {
+    "id": "UAE",
+    "type": "Airline",
+    "name": "Emirates",
+    "_rid": "zrE3AJ4WlJYDAAAAAAAAAA==",
+    "_self": "dbs/zrE3AA==/colls/zrE3AJ4WlJY=/docs/zrE3AJ4WlJYDAAAAAAAAAA==/",
+    "_etag": "\"00000000-0000-0000-29a5-8e44ee5801da\"",
+    "_attachments": "attachments/",
+    "_ts": 1702019399
+  },
+  {
+    "id": "UAL",
+    "type": "Airline",
+    "name": "United Airlines",
+    "_rid": "zrE3AJ4WlJYEAAAAAAAAAA==",
+    "_self": "dbs/zrE3AA==/colls/zrE3AJ4WlJY=/docs/zrE3AJ4WlJYEAAAAAAAAAA==/",
+    "_etag": "\"00000000-0000-0000-29a5-953a804401da\"",
+    "_attachments": "attachments/",
+    "_ts": 1702019411
+  }
+]
